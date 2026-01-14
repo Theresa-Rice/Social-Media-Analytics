@@ -11,7 +11,7 @@ This repository contains code and data for performing social media sentiment ana
 ## Getting Started
 
 ### Dependencies  
-- Python 3.x  
+- Python
 - Libraries such as `pandas`, `nltk`, `scikit-learn`, `textblob` or similar for text processing  
 - Jupyter Notebook environment (for running the analysis notebook)
 
