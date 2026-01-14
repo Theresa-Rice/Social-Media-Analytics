@@ -1,6 +1,4 @@
 # Social Media Analytics
-
-## Simple Overview of Use / Purpose  
 A sentiment analysis project that collects and analyzes review data (such as from Reddit) to understand user opinions and trends on social media.
 
 ---
